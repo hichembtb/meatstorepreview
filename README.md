@@ -1,3 +1,8 @@
+## 📸 Screenshots
+
+Here is the "Add to order" screen in action:
+
+![Add to Order Screenshot](assets/screenshot.png)
 # Add to Order Screen Feature
 
 This Flutter module implements the "Add these products to the order" feature for the meatfacture-mobile app.
